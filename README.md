@@ -98,8 +98,8 @@ ffdevices.getAll(...)
     os: 'darwin' } ]
 ```
 ## TODO
-Linux support([video4linux2](https://ffmpeg.org/ffmpeg-all.html#video4linux2_002c-v4l2))
-Compatibility test to other platforms and machines.
+* Linux support([video4linux2](https://ffmpeg.org/ffmpeg-all.html#video4linux2_002c-v4l2))
+* Compatibility test to other platforms and machines.
 
 ## Related Package
-[fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg)
+* [fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - Fluent ffmpeg-API for node.js
