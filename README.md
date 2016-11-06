@@ -1,6 +1,26 @@
-List all available media devices on [FFMPEG](https://www.ffmpeg.org/). Supports Windows, OSX and Linux(coming soon)
+FFDevices for Node.js
 ===
+List all available media devices on [FFmpeg](https://www.ffmpeg.org/). Supports Windows, OSX and Linux(coming soon)
 
+## Installation
+
+Via npm:
+
+```sh
+$ npm install ffdevices --save
+```
+
+## Prerequisites
+
+#### FFmpeg
+You need to have ffmpeg version >= 2.0.7 for this to work. This is the oldest version I tested but it may work on older version also.
+
+Note: If you downloaded the static build most probably `FFMPEG_PATH` environment variable is not yet set. You have two options:
+  1.) Find the location of the ffmpeg `bin` directory and add it to you `PATH`.
+  2.) Set the custom `FFMPEG_PATH` using the [`ffdevices.#ffmpegPath`](#ffmpegPath)
+
+
+#ffmpegPath
 
 ## Sample Windows result
 ```
