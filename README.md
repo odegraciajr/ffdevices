@@ -1,4 +1,6 @@
-# ffdevices
+List all available media devices on [FFMPEG](https://www.ffmpeg.org/). Supports Windows, OSX and Linux(coming soon)
+===
+
 
 ## Sample Windows result
 ```

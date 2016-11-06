@@ -25,6 +25,9 @@
   "bugs": {
     "url": "https://github.com/odegraciajr/ffdevices/issues"
   },
+  "engines": {
+    "node": ">=0.9"
+  },
   "homepage": "https://github.com/odegraciajr/ffdevices#readme",
   "devDependencies": {
     "babel-cli": "^6.18.0",
