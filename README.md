@@ -1,5 +1,35 @@
 # ffdevices
 
+## Sample Windows result
+```
+[ { name: 'Desktop Capture',
+    type: 'video',
+    value: 'desktop',
+    deviceType: 'gdigrab',
+    os: 'win32' },
+  { name: 'Webcam C170',
+    type: 'video',
+    value: 'Webcam C170',
+    deviceType: 'dshow',
+    os: 'win32' },
+  { name: 'Microphone (2- Webcam C170)',
+    type: 'audio',
+    value: 'Microphone (2- Webcam C170)',
+    deviceType: 'dshow',
+    os: 'win32' },
+  { name: 'Headset (Voombox-outdoor Hands-Free)',
+    type: 'audio',
+    value: 'Headset (Voombox-outdoor Hands-Free)',
+    deviceType: 'dshow',
+    os: 'win32' },
+  { name: 'Headset (Bluedio Hands-Free)',
+    type: 'audio',
+    value: 'Headset (Bluedio Hands-Free)',
+    deviceType: 'dshow',
+    os: 'win32' } ]
+```
+
+## Sample OSX result
 ```
 [ { name: 'Built-in iSight',
     type: 'video',
