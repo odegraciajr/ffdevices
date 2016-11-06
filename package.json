@@ -1,6 +1,6 @@
 {
   "name": "ffdevices",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "List all available media devices on FFMPEG. Supports Windows, OSX and Linux(coming soon)",
   "main": "index.js",
   "scripts": {
